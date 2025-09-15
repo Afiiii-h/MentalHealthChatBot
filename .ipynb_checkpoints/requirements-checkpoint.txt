@@ -17,9 +17,9 @@ google-pasta==0.2.0
 grpcio==1.74.0
 h5py==3.14.0
 idna==3.10
-jaxlib==0.4.38
 jax==0.4.38
-aiobotocore==2.5.1
+jaxlib==0.4.38
+numpy>=1.24,<2.0
 Jinja2==3.1.6
 joblib==1.5.2
 jsonschema==4.25.1
